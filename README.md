@@ -34,7 +34,7 @@ O projeto GoRestaurant é um app de delivery de comida, onde foi praticado o con
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [ReactJS](https://reactjs.org)
+- [React Native](https://reactnative.dev)
 - [typescript](https://www.typescriptlang.org)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
