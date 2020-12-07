@@ -1,5 +1,5 @@
 <h1>
-  <img src="src/assets/logo-header.png" width="290px"/>
+  <img src="assets/gorestaurantreadmelogo.png" width="290px"/>
 </h1>
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/roperes98/Poc-ReactNative/blob/master/LICENSE)
