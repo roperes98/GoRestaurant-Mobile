@@ -44,7 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
   # Clonar o repositório
-  $ git clone https://github.com/roperes98/Poc-ReactNative
+  $ git clone https://github.com/roperes98/Poc-ReactNative.git
 
   # Entrar no diretório
   $ cd Poc-ReactNative
