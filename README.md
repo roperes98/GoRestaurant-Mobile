@@ -20,9 +20,9 @@
 - [Technologies](#-technologies)
 - [Downloading the repository](#-downloading-the-repository)
 
+⠀⠀⠀⠀⠀⠀⠀⠀
 ---
 
-⠀⠀⠀⠀⠀⠀⠀⠀
 ## 📋 About
 
 The GoRestaurant is a food delivery app built for studying CRUD (Create, Read, Update, Delete) concepts built using React Native and TypeScript. 
@@ -66,6 +66,7 @@ This project was built using:
 ## 🌏 Licence
 
 This project is licensed under the MIT License.<br>
+
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
 Developed by Rodrigo Peres! 👾
