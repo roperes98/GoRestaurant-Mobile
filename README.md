@@ -57,10 +57,10 @@ This project was built using:
   $ cd Poc-ReactNative
 
   # Install dependencies
-  $ yarn install
+  $ yarn install or npm install
 
   # Start the development server
-  $ yarn start
+  $ yarn start or npm start
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀
