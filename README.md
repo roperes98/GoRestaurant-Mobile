@@ -2,6 +2,10 @@
   <img src="assets/gorestaurantreadmelogo.png" width="290px"/>
 </h1>
 
+<h1>
+    <img src="assets/gorestaurant.png"/>
+</h1>
+
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/roperes98/Poc-ReactNative/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/roperes98/Poc-ReactNative.svg)
 ![](https://img.shields.io/github/last-commit/roperes98/Poc-ReactNative.svg?color=red)
@@ -10,17 +14,11 @@
 ![](https://img.shields.io/github/repo-size/roperes98/Poc-ReactNative.svg)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-<h1>
-    <img src="assets/gorestaurant.png"/>
-</h1>
-
 ## 📚 Index
 - [About](#-about)
 - [Features](#-features)
 - [Technologies](#-technologies)
 - [Downloading the repository](#-downloading-the-repository)
-
-⠀⠀⠀⠀⠀⠀⠀⠀
 
 ---
 
@@ -29,6 +27,7 @@
 
 The GoRestaurant is a food delivery app built for studying CRUD (Create, Read, Update, Delete) concepts built using React Native and TypeScript. 
 
+⠀⠀⠀⠀⠀⠀⠀⠀
 ## ⚒️ Features
 
 - Create, read, update, and delete functionality for menu items and orders.
