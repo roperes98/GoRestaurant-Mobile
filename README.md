@@ -20,7 +20,6 @@
 - [Technologies](#-technologies)
 - [Downloading the repository](#-downloading-the-repository)
 
-⠀⠀⠀⠀⠀⠀⠀⠀
 ---
 
 ## 📋 About
@@ -30,7 +29,10 @@ The GoRestaurant is a food delivery app built for studying CRUD (Create, Read, U
 ⠀⠀⠀⠀⠀⠀⠀⠀
 ## ⚒️ Features
 
-- Create, read, update, and delete functionality for menu items and orders.
+- See all of the menu items.
+- Filter menu items by categories.
+- Add favorites dishes.
+- Make an order.
 - Real-time updates using websockets. (Future update)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
