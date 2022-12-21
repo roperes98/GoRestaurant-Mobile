@@ -14,50 +14,59 @@
     <img src="assets/gorestaurant.png"/>
 </h1>
 
-## 📚 Indice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+## 📚 Index
+- [About](#-about)
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [Downloading the repository](#-downloading-the-repository)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
 ---
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
+## 📋 About
 
-## 🔖 Sobre
+The GoRestaurant is a food delivery app built for studying CRUD (Create, Read, Update, Delete) concepts built using React Native and TypeScript. 
 
-O projeto GoRestaurant é um app de delivery de comida, onde foi praticado o conceito de CRUD (Create, Read, Update, Delete) para estudo.
+## ⚒️ Features
 
-⠀⠀⠀⠀⠀⠀⠀⠀
-## 🚀 Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [React Native](https://reactnative.dev)
-- [typescript](https://www.typescriptlang.org)
+- Create, read, update, and delete functionality for menu items and orders.
+- Real-time updates using websockets. (Future update)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
+## 🚀 Technologies
 
-## 🗂 Como baixar o projeto
+This project was built using:
+
+- [React Native](https://reactnative.dev) - A framework for building native apps using React.
+- [typescript](https://www.typescriptlang.org) - A superset of JavaScript that adds optional static typing.
+- [Socket.io](https://socket.io) - A library for real-time, bidirectional communication using websockets. (Future update)
+
+⠀⠀⠀⠀⠀⠀⠀⠀
+
+## 🗂️ Downloading the repository
 
 ```bash
 
-  # Clonar o repositório
-  $ git clone https://github.com/roperes98/Poc-ReactNative.git
+  # Clone the repository
+  $ git clone https://github.com/roperes98/GoRestaurant-Mobile.git
 
-  # Entrar no diretório
+  # Go to the repository
   $ cd Poc-ReactNative
 
-  # instalar as dependências
+  # Install dependencies
   $ yarn install
 
-  # Iniciar o projeto
+  # Start the development server
   $ yarn start
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
+## 🌏 Licence
+
+This project is licensed under the MIT License.<br>
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
-Desenvolvido por Rodrigo Peres! 👾
+Developed by Rodrigo Peres! 👾
