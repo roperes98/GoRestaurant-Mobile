@@ -54,7 +54,7 @@ This project was built using:
   $ git clone https://github.com/roperes98/GoRestaurant-Mobile.git
 
   # Go to the repository
-  $ cd Poc-ReactNative
+  $ cd GoRestaurant-Mobile
 
   # Install dependencies
   $ yarn install or npm install
