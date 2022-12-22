@@ -6,13 +6,13 @@
     <img src="assets/gorestaurant.png"/>
 </h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/roperes98/Poc-ReactNative/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/roperes98/Poc-ReactNative.svg)
-![](https://img.shields.io/github/last-commit/roperes98/Poc-ReactNative.svg?color=red)
-![](https://img.shields.io/github/languages/count/roperes98/Poc-ReactNative.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/top/roperes98/Poc-ReactNative.svg?color=yellow)
-![](https://img.shields.io/github/repo-size/roperes98/Poc-ReactNative.svg)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/roperes98/GoRestaurant-Mobile/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/roperes98/GoRestaurant-Mobile.svg)
+![](https://img.shields.io/github/last-commit/roperes98/GoRestaurant-Mobile.svg?color=red)
+![](https://img.shields.io/github/languages/count/roperes98/GoRestaurant-Mobile.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/top/roperes98/GoRestaurant-Mobile.svg?color=yellow)
+![](https://img.shields.io/github/repo-size/roperes98/GoRestaurant-Mobile.svg)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/GoRestaurant-Mobile.svg?v=103)
 
 ## 📚 Index
 - [About](#-about)
