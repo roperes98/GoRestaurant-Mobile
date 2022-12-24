@@ -12,7 +12,7 @@
 ![](https://img.shields.io/github/languages/count/roperes98/GoRestaurant-Mobile.svg?color=lightgrey)
 ![](https://img.shields.io/github/languages/top/roperes98/GoRestaurant-Mobile.svg?color=yellow)
 ![](https://img.shields.io/github/repo-size/roperes98/GoRestaurant-Mobile.svg)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/GoRestaurant-Mobile.svg?v=103)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## 📚 Index
 - [About](#-about)
